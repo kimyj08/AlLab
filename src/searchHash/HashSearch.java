@@ -1,4 +1,4 @@
-package day19;
+package searchHash;
 
 import java.util.Iterator;
 

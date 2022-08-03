@@ -1,4 +1,4 @@
-package day16;
+package searchLinear;
 
 public class LinearSearch_h {
 

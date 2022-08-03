@@ -1,4 +1,4 @@
-package day21;
+package sortInsertion;
 
 public class InsertionSort {
 

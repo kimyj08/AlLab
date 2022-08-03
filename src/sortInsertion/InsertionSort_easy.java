@@ -1,4 +1,4 @@
-package day21;
+package sortInsertion;
 
 import java.util.Arrays;
 

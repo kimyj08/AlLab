@@ -1,4 +1,4 @@
-package day24;
+package sortQuick;
 
 import java.util.Arrays;
 
